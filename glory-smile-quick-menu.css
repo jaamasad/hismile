@@ -1,0 +1,114 @@
+.glory-smile-quick-menu-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-navy);
+  width: 238px;
+  height: 800px;
+}
+.hismile {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 59px);
+  font-weight: 500;
+}
+.hismile-wrapper {
+  position: absolute;
+  top: 635px;
+  left: 60px;
+  width: 118px;
+  height: 39px;
+  font-size: var(--font-size-13xl);
+}
+.home {
+  position: relative;
+  font-weight: 500;
+}
+.home-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 30px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+}
+.glory-smile-quick-menu-inner {
+  position: absolute;
+  top: 120px;
+  left: 47px;
+  width: 60px;
+  height: 152px;
+}
+.pharrow-up-bold-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.back {
+  position: absolute;
+  top: 2px;
+  left: 40px;
+  font-weight: 500;
+}
+.frame-div,
+.pharrow-up-bold-parent {
+  position: absolute;
+  width: 76px;
+  height: 24px;
+}
+.pharrow-up-bold-parent {
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.frame-div {
+  top: 40px;
+  left: 47px;
+  font-family: var(--font-roboto);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 155px;
+  height: 48px;
+}
+.buy-now {
+  position: absolute;
+  top: 14px;
+  left: 46px;
+  font-weight: 600;
+}
+.glory-smile-quick-menu-inner1,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 155px;
+  height: 48px;
+}
+.glory-smile-quick-menu-inner1 {
+  top: 703px;
+  left: 42px;
+  color: var(--color-navy);
+  font-family: var(--font-roboto);
+}
+.glory-smile-quick-menu {
+  position: relative;
+  width: 238px;
+  height: 800px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
